@@ -1,0 +1,47 @@
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.csprojAssemblyReference.cache
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\MainWindow.g.cs
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\App.g.cs
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding_MarkupCompile.cache
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding_MarkupCompile.lref
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\bin\Debug\BelajarCommandBinding.exe.config
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\bin\Debug\BelajarCommandBinding.exe
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\bin\Debug\BelajarCommandBinding.pdb
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\MainWindow.baml
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.g.resources
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.Properties.Resources.resources
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.csproj.GenerateResource.cache
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.csproj.CoreCompileInputs.cache
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.exe
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.pdb
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\Command2.g.cs
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\Command2.baml
+C:\Users\LAB 256 - PC 36\source\repos\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarWebCommand.g.cs
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\bin\Debug\BelajarCommandBinding.exe.config
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\bin\Debug\BelajarCommandBinding.exe
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\bin\Debug\BelajarCommandBinding.pdb
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.csprojAssemblyReference.cache
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarWebCommand.g.cs
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\Command2.g.cs
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\MainWindow.g.cs
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\App.g.cs
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding_MarkupCompile.cache
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding_MarkupCompile.lref
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarWebCommand.baml
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\Command2.baml
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\MainWindow.baml
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.g.resources
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.Properties.Resources.resources
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.csproj.GenerateResource.cache
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.csproj.CoreCompileInputs.cache
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.exe
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarCommandBinding.pdb
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarWindowBox.g.cs
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarWindowBox.baml
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarSave.g.cs
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarSave.baml
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarOpenFile.g.cs
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarOpenFile.baml
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarOpenFile2.g.cs
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\BelajarOpenFile2.baml
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\Latihan2.g.cs
+D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\BelajarCommandBinding\BelajarCommandBinding\obj\Debug\Latihan2.baml
