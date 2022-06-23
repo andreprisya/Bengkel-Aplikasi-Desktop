@@ -1,0 +1,43 @@
+﻿<Window x:Class="Pertemuan6.BelajarTabControl2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pertemuan6"
+        mc:Ignorable="d"
+        Title="BelajarTabControl2" Height="450" Width="500">
+    <Grid>
+        <Grid>
+            <TabControl>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\Pertemuan6\Pertemuan6\assets\RedButton.png" 
+                                   Width="13" Height="11"/>
+                            <TextBlock Text="Red" Foreground="Red"/>
+                        </StackPanel>
+                    </TabItem.Header>
+                    <Label Content="Kontennya ditulis di sini yaa."/>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\Pertemuan6\Pertemuan6\assets\greenButton.png"
+                                   Width="13" Height="11"/>
+                            <TextBlock Text="Green" Foreground="Green"/>
+                        </StackPanel>
+                    </TabItem.Header>
+                </TabItem>
+                <TabItem>
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="D:\PCR\Semester 4\Bengkel Aplikasi Dekstop\Pertemuan6\Pertemuan6\assets\yellowButton.png"
+                                   Width="13" Height="11"/>
+                            <TextBlock Text="Yellow" Foreground="Yellow"/>
+                        </StackPanel>
+                    </TabItem.Header>
+                </TabItem>
+            </TabControl>
+        </Grid>
+    </Grid>
+</Window>
