@@ -1,0 +1,30 @@
+﻿<Window x:Class="BelajarControl.ComboBoxControl2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BelajarControl"
+        mc:Ignorable="d"
+        Title="ComboBoxControl2" Height="150" Width="300">
+    <StackPanel Margin="10">
+        <ComboBox Name="cmbColors" SelectionChanged="cmbColors_SelectionChanged">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Rectangle Fill="{Binding Name}" Width="16" 
+                                   Height="16" Margin="0,2,5,2"/>
+                        <TextBlock Text="{Binding Name}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <WrapPanel Margin="10" HorizontalAlignment="Center">
+            <Button Name="btnPrevious" Click="btnPrevious_Click" 
+                    Width="55">Kembali</Button>
+            <Button Name="btnNext" Click="btnNext_Click" 
+                    Margin="5,0">Lanjut</Button>
+            <Button Name="btnBlue" Click="btnBlue_Click" 
+                    Width="55">Kuning</Button>
+        </WrapPanel>
+    </StackPanel>
+</Window>

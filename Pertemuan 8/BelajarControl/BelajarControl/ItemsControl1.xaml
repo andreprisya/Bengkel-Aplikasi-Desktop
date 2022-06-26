@@ -1,0 +1,19 @@
+﻿<Window x:Class="BelajarControl.ItemsControl1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BelajarControl"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="ItemsControl1" Height="150" Width="200">
+    <Grid Margin="10">
+        <ItemsControl>
+            <system:String>Contoh ItemsControl 1</system:String>
+            <system:String>Contoh ItemsControl 2</system:String>
+            <system:String>Contoh ItemsControl 3</system:String>
+            <system:String>Contoh ItemsControl 4</system:String>
+            <system:String>Contoh ItemsControl 5</system:String>
+        </ItemsControl>
+    </Grid>
+</Window>
